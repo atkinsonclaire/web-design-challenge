@@ -24,7 +24,7 @@ permalink: /FirstVis/
                         Plots
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="file:///Users/Claire/Desktop/FirstVis.html">Latitude vs. Max Temperature</a>
+                        <a class="dropdown-item" href="https://atkinsonclaire.github.io/web-design-challenge/FirstVis">Latitude vs. Max       Temperature</a>
                         <a class="dropdown-item" href="file:///Users/Claire/Desktop/SecondVis.html">Latitude vs. Humidity</a>
                         <a class="dropdown-item" href="file:///Users/Claire/Desktop/ThirdVis.html">Latitude vs. Cloudiness</a>
                         <a class="dropdown-item" href="file:///Users/Claire/Desktop/FourthVis.html">Latitude vs. Wind Speed</a>
