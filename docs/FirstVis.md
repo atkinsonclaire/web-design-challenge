@@ -1,3 +1,7 @@
+layout: Page
+title: "First Visualisation"
+permalink: /FirstVis/
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
